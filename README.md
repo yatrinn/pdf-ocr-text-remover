@@ -7,7 +7,7 @@ Important! If the PDF contains computer-generated text, this will also be fully 
 ## **Features**
 
 - **OCR Text Removal**: Removes all text content from a PDF file.
-- **Preserves Images**: Keeps images intact while removing text.
+- **Preserves Images**: Keeps images intact while removing text. 
 - **Easy to Use**: Simple script that can be customized as needed.
 
 ## **Prerequisites**
