@@ -14,7 +14,7 @@ class TestRemoveOCRText(unittest.TestCase):
 
         # Mock pages
         mock_page = MagicMock()
-        mock_doc.__getitem__.return_value = mock_page
+        mock_doc.__getitem__.return_value = mock_page 
 
         # Mock get_contents to return xrefs
         mock_page.get_contents.return_value = [1, 2]
