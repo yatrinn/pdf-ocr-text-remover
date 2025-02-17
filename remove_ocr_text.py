@@ -11,7 +11,7 @@ def remove_text_from_content_stream(content):
 
 def process_pdf(input_pdf, output_pdf):
     """
-    Processes the PDF file to remove all text content.
+    Processes the PDF file to remove all text content. 
 
     Args:
         input_pdf (str): Path to the input PDF file.
